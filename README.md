@@ -2,7 +2,7 @@
 
 A Java-based desktop application for modeling and designing heated floor systems with automated wire path generation.
 
-**University Team Project** - Developed collaboratively for IFT-2007/GLO-2004 courses at Université Laval (Fall 2025).
+**University Team Project** - Developed collaboratively for IFT-2007/GLO-2004 courses at Laval University (Fall 2025).
 
 ## 📹 Demo
 
@@ -110,7 +110,7 @@ src/main/java/com/heatmyfloor/
 
 **Download JAR**
 
-Download the latest release: [📦 heatmyfloor.jar](releases/HeatMyFloor.jar)
+Download the latest release: [📦 heatmyfloor.jar](./heatmyfloor.jar)
 ```bash
 java -jar heatmyfloor.jar
 ```
@@ -162,11 +162,11 @@ This project follows **Hexagonal Architecture** (Ports & Adapters):
 
 This project was developed by:
 
-- **[Petiton Wiseley Paul-Enzer]**
-- **[Wily Tatow]**
-- **[Ouedraogo Aliya Imann]**
-- **[Kémila Bakary]**
-- **[Dongmeza Murielle Christelle]**
+- **[Petiton Wiseley Paul-Enzer](https://github.com/pwiseley)**
+- **[Wily Roussel Tatow Doungmo](https://github.com/witly2)**
+- **[Ouedraogo Aliya Imann](https://github.com/aioue8)**
+- **[Kémila Bakary](https://github.com/kemilabakary)**
+- **[Dongmeza Murielle Christelle](https://github.com/muriellec)**
 
 ## 📝 License
 
