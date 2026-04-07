@@ -3,6 +3,7 @@
 A Java-based desktop application for modeling and designing heated floor systems with automated wire path generation.
 
 **University Team Project** - Developed collaboratively for IFT-2007/GLO-2004 courses at Laval University (Fall 2025).
+> The original course repository is private. This mirror contains only this README.
 
 ## 📹 Demo
 
@@ -158,6 +159,16 @@ This project follows **Hexagonal Architecture** (Ports & Adapters):
 - **Larman Controller** (Controller, View separation)
 - **Strategy** (Path generation algorithms)
 
+## 👨‍💻 My Contributions
+
+- Architecture design (three-layer: Domain, UI, Infra)
+- UI design with Figma
+- Wire path generation algorithm
+- Heating membrane generation algorithm
+- Furniture and object rendering in the room
+- Undo / Redo (Memento pattern)
+- Mouse position in Canva
+  
 ## 👥 Contributors
 
 This project was developed by:
