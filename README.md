@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # HeatMyFloor - Heated Floor Design Application
 
 A Java-based desktop application for modeling and designing heated floor systems with automated wire path generation.
